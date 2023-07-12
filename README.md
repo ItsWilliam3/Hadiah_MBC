@@ -1,4 +1,4 @@
-# Hadiah_MBC
+# The Beatles - Lucy in the Sky with Diamonds
 Picture yourself in a boat on a river
 With tangerine trees and marmalade skies
 Somebody calls you, you answer quite slowly
@@ -39,4 +39,4 @@ Lucy in the sky with diamonds
 Lucy in the sky with diamonds
 Lucy in the sky with diamonds
 
-The Beatles - Lucy in the Sky with Diamonds
+
